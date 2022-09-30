@@ -6,8 +6,8 @@
   ### introduction
    
 안녕하세요! 
-글쓰기와 기록이 취미이며,<br>
-개발을 즐기는 최진우입니다.<br>
+글쓰기와 여행을 좋아하며<br>
+유능한 개발자를 꿈꾸는 최진우입니다.<br>
 
 <br><br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
