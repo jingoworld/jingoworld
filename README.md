@@ -19,7 +19,7 @@
 
 <br><br><br>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=jingoworld&show_icons=vue-dark&theme=vue-dark) 
+![My github status](https://github-readme-stats.vercel.app/api?username=jingoworld&show_icons=true&theme=vue-dark) 
 
 <!-- -->
 
