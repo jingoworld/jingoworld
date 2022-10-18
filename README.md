@@ -18,7 +18,7 @@
 
 
 <br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingoworld&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingoworld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 ![My github status](https://github-readme-stats.vercel.app/api?username=jingoworld&show_icons=true&theme=vue-dark) 
